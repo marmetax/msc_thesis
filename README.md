@@ -27,3 +27,7 @@ This software and its source code are proprietary. No one is permitted to copy,
 distribute, modify, or use this code for any purpose without explicit written 
 permission from the author.
 
+## How to RUN
+First make sure to install an updated version of nodejs, making sure it is a stable version. 
+Open a terminal in VSCode and type npm install . Afterwards, type npm start .
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
